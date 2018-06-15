@@ -29,11 +29,6 @@ sortByString("weather", "therapyw"), sortByString("good", "odg")
 
     CPU times: user 35 µs, sys: 4 µs, total: 39 µs
     Wall time: 45.8 µs
-
-
-
-
-
     ('theeraw', 'oodg')
 
 
@@ -112,11 +107,6 @@ decodeString("4[ab]"), decodeString("2[b3[a]]")
 
     CPU times: user 77 µs, sys: 8 µs, total: 85 µs
     Wall time: 89.6 µs
-
-
-
-
-
     ('abababab', 'baaabaaa')
 
 
